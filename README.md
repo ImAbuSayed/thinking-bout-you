@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/thinking-bout-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Thinking ’Bout You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/thinking-bout-you/) |
+| **Get License** | [Obtain a Music License for Thinking ’Bout You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/thinking-bout-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got this midnight fever burning up my mind
+> Thinking 'bout the way you leave this sleepy town behind
+> Every shadow on the porch is calling out your name
+> I'm just a moth drawn closer to your candle flame
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
