@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Thinking ’Bout You
+
+This log tracks the cryptographic history and versioning for the song **Thinking ’Bout You** (thinking-bout-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:17:23.058000 | `v1` | `30304b55ff59168554e07e327b00ac1a7d4ebcdc26c48e6881ac3c02ccaf933c` | `40f571cdb2f9b1074b82106c6588cb4bb203aa2ee1aa864b035afaf1286990f1` | `2026-05-23_thinking-bout-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
